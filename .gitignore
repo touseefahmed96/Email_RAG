@@ -1,0 +1,4 @@
+/chroma_db
+/email-agent
+.env
+email_query_assistant.log
